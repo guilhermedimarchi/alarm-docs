@@ -2,7 +2,7 @@
 
 Smart Alarm · Effective date: May 4, 2026
 
-Smart Alarm is a local-first alarm app that helps users wake up by completing challenges such as photo proof, walking, shaking, or memory tasks. This policy explains what data the app accesses and how it is used.
+Smart Alarm is a local-first alarm app that helps users wake up by completing challenges such as photo proof, walking, shaking, or memory tasks. This policy explains what data the app accesses and how it is used. Nothing is send to any servers and all remains in-device only.
 
 ## Data We Access
 
@@ -47,7 +47,3 @@ Smart Alarm is not directed to children under 13.
 ## Changes
 
 We may update this policy as the app changes. The effective date at the top of this page will be updated when changes are made.
-
-## Contact
-
-For privacy questions, contact the developer at guilhermedimarchi@gmail.com.
